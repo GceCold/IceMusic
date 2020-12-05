@@ -1,0 +1,6 @@
+name: IceMusic
+version: ${project.version}
+main: ltd.icecold.icemusic.IceMusic
+authors: [ IceCold ]
+description: A Music Player Plugin
+website: https://ice-cold.ltd/
